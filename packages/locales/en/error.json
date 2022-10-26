@@ -1,0 +1,28 @@
+{
+    "inactive": "{{author}} inactive",
+    "notfound": "{{author}} not found",
+    "isRequired": "{{author}} is required",
+    "incorrect": "{{author}} is required",
+    "mobileNumberExist": "Mobile Number {{author}} used",
+    "active": "{{author}} status active invalid",
+    "exist": "{{author}} exist",
+    "maxSize": "{{author}} size too big",
+    "maxFiles": "{{author}} are to many",
+    "mimeInvalid": "{{author}} extension not valid",
+    "invalid": "{{author}} invalid",
+    "forbidden": "{{author}} Permission invalid",
+    "slug-is-used": "slug is used",
+    "used": "{{author}} is used",
+    "expired": "{{author}} is expired",
+    "blocked": "{{author}} is blocked",
+    "banned": "{{author}} is banned",
+    "server": "server error",
+    "serverAuthor": "{{author}}",
+    "isUsed": "{{author}} is used",
+    "routeNotFound": "Route Not Found",
+    "header": {
+        "authorize": {
+            "unset": "The authorization header is not set"
+        }
+    }
+}

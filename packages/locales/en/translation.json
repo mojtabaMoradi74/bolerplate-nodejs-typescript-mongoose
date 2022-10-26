@@ -1,0 +1,15 @@
+{
+    "blog": {
+        "name": "blog",
+        "category": "blog category"
+    },
+    "title": "Title",
+    "slug": "Slug",
+    "status": "Status",
+    "user": "user",
+    "role": "role",
+    "password": "password",
+    "folder": "folder",
+    "file": "file",
+    "mobileNumber": "Mobile Number"
+}
